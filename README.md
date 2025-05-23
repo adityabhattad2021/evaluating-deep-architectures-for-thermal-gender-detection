@@ -1,6 +1,6 @@
-# Gender Classification from Thermal Faces
+# Introducing TH-SE-ResNet for Enhanced Performance and Generalization for Gender Detection using Thermal Images
 
-This repository contains the code for the research paper **Gender Classification from Thermal Faces** which investigates deep learning models for gender classification using thermal facial images. It includes implementations of baseline CNN architectures (AlexNet, VGG16, ResNet50, InceptionV3, EfficientNet-B0) and a novel proposed architecture (TH-SE-ResNet) evaluated on the Tufts and Charlotte-ThermalFace datasets.
+This repository contains the code for the research paper **Introducing TH-SE-ResNet for Enhanced Performance and Generalization for Gender Detection using Thermal Images** which investigates deep learning models for gender classification using thermal facial images. It includes implementations of baseline CNN architectures (AlexNet, VGG16, ResNet50, InceptionV3, EfficientNet-B0) and a novel proposed architecture (TH-SE-ResNet) evaluated on the Tufts and Charlotte-ThermalFace datasets.
 
 ## Features
 
